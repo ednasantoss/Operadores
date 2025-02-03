@@ -37,6 +37,7 @@
     echo "<br>";
     echo ($c < $d) ? "C é menor que D" : "C não é menor D";
 
+    //menor, maior ou igual que
     $e = 5;
     $f = 5;
     $g = 3;
