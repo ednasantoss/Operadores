@@ -14,7 +14,7 @@
 
     switch ($fruta) {
         case "banana":
-            echo "Afruta é uma banana!";
+            echo "A fruta é uma banana!";
             break;
         case "maçã":
             echo "A fruta é uma maçã!";
